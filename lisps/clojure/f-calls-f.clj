@@ -1,1 +1,1 @@
-(defn f [] (read-line)(f)) (f)
+(defn f [] (read-line)(recur))(f)
