@@ -1,1 +1,1 @@
-(define (f)(f))(f)
+(define (f)(read-line)(f))(f)
